@@ -148,19 +148,19 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python
     level: 98%
 
   - name: Javascript & jQuery
     level: 98%
 
-  - name: Angular
+  - name: Excel , Word, PowerPoint , SharePonit
     level: 98%
 
   - name: HTML5 & CSS
     level: 95%
 
-  - name: Ruby on Rails
+  - name: SQL Database
     level: 85%
 
   - name: Sketch & Photoshop
