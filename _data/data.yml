@@ -123,7 +123,7 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: Power Bi Data Analyst Associate
+  - name: Power BI Data Analyst Associate (PL 300)
     start: 2026
     end: 2028
     organization: Microsoft
@@ -131,8 +131,7 @@ certifications:
     credentialurl: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
     credentialname: PL 300
     details: |
-     Demonstrate methods and best practices that align with business and technical requirements for modeling, visualizing, and analyzing data with Microsoft Power BI
-
+     The PL-300 certification tests advanced Power BI skills across data preparation (25-30%): Power Query M for custom ETL functions, fuzzy matching, incremental refresh, and hybrid models; modeling (25-30%): complex DAX like CALCULATETABLE iterators, time intelligence (SAMEPERIODLASTYEAR), dynamic RLS, and VertiPaq optimization; visualization (25-30%): AI visuals (forecasting, anomaly detection), decomposition trees, and DAX-driven conditional formatting; deployment (15-20%): Premium XMLA endpoints, gateway clusters, workspace endorsements, and REST APIs for enterprise-scale governance.
 projects:
   title: Projects
   intro: >
