@@ -14,8 +14,8 @@ sidebar:
 
   # Sidebar links
   email: marieflore.chadjou@yahoo.com
-  phone: 012 
-  timezone: America/Eastern Time Canada # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  phone:  # 012 
+  timezone: America/Eastern Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Canada
   website: # https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: # alandoe
@@ -61,37 +61,23 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+      Power BI developer with PL-300 certification and hands-on experience in five Power BI 
+      projects across banking, insurance, marketing, and energy sectors. 
+      Skilled in creating interactive dashboards, DAX queries, and data visualizations
+      to deliver actionable insights. Eager to apply Power BI expertise 
+      to drive data-informed decisions in dynamic teams
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Applied science
+    College: Dawson College
+    time: 2014 - 2016
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Explore, research and discover what interests you most in the vast world of science. 
+      The Pure and Applied Science Profile offers exposure to many disciplines in the first year.
+      In the second year, students can go deeper into topics of particular interest, such as ecology 
+      and the environment, engineering, and computer science. The Integrative Project is another 
+      opportunity to choose what you wish to learn
 
 experiences:
   title: Experiences
