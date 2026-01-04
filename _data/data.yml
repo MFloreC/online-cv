@@ -142,21 +142,21 @@ projects:
     link: "#hook"
     tagline: "Imported loan datasets via Power Query; cleaned duplicates and unpivoted columns; built star schema with applicant demographics as dimensions. Created DAX KPIs for approval rates, risk scores and slicers for regional analysis. Simulated 20% faster insights for loan officers"
 
-  - title: DevStudio
+  - title: Insurance Financial Performance Tracker
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "ETL from balance sheets, cash flows (4-year trends); ratio analysis via DAX. Visualized health metrics with drill-downs and conditional formatting; implemented RLS for department views."
 
-  - title: Tempo
+  - title: Marketing Campaign Insights Portal
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Segmented customers by channel/product using Power Query merges; DAX for campaign ROI. Interactive maps and trend lines optimized marketing spend"
 
-  - title: Atom
+  - title: Energy Sales Profit Analyzer
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Processed regional sales data; DAX time intelligence for profit drivers. Added drill-through pages and bookmarks for executive summaries."
 
-  - title: Delta
+  - title: Banking Customer Churn Predictor
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Modeled churn risks with customer attributes; descriptive stats via measures. Retention dashboards with what-if parameters."
 
 oss:
   title: OSS Contributions
