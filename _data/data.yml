@@ -65,11 +65,11 @@ career-profile:
       projects across banking, insurance, marketing, and energy sectors. 
       Skilled in creating interactive dashboards, DAX queries, and data visualizations
       to deliver actionable insights. Eager to apply Power BI expertise 
-      to drive data-informed decisions in dynamic teams
+      to drive data-informed decisions in dynamic teams.
 education:
   title: Education
   info:
-  - degree: Applied science
+  - degree: Applied science at Dawson Montreal
     College: Dawson College
     time: 2014 - 2016
     details: |
@@ -123,125 +123,40 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
+  - name: Power Bi Data Analyst Associate
+    start: 2026
+    end: 2028
     organization: Microsoft
     credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+    credentialurl: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
+    credentialname: PL 300
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+     Demonstrate methods and best practices that align with business and technical requirements for modeling, visualizing, and analyzing data with Microsoft Power BI
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Hands-on experience through five end-to-end Power BI projects, each involving data import, cleaning, modeling, DAX measures, and deployment of interactive reports tailored to industry challenges
   assignments:
-  - title: Velocity
+  - title: Banking Loan Analytics Dashboard
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Imported loan datasets via Power Query; cleaned duplicates and unpivoted columns; built star schema with applicant demographics as dimensions. Created DAX KPIs for approval rates, risk scores (e.g., CALCULATE(AVERAGE(Risk), Risk>Threshold)), and slicers for regional analysis. Simulated 20% faster insights for loan officers"
 
-  - title: DevStudio
+  - title: Insurance Financial Performance Tracker
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "ETL from balance sheets, cash flows (4-year trends); ratio analysis via DAX. Visualized health metrics with drill-downs and conditional formatting; implemented RLS for department views."
 
-  - title: Tempo
+  - title: Marketing Campaign Insights Portal
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Segmented customers by channel/product using Power Query merges; DAX for campaign ROI (SUMX(FILTER(Sales, Campaign="Q1"), Revenue/Cost)). Interactive maps and trend lines optimized marketing spend"
 
-  - title: Atom
+  - title: Energy Sales Profit Analyzer
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Processed regional sales data; DAX time intelligence (TOTALYTD(Sales, Dates)) for profit drivers. Added drill-through pages and bookmarks for executive summaries."
 
-  - title: Delta
+  - title: Banking Customer Churn Predictor
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+    tagline: "Modeled churn risks with customer attributes; descriptive stats via measures (e.g., % Churn = DIVIDE(COUNT(Churned), COUNTROWS(Customers))). Retention dashboards with what-if parameters"
 
 skills:
   title: Skills &amp; Proficiency
