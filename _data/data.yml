@@ -136,27 +136,27 @@ certifications:
 projects:
   title: Projects
   intro: >
-    Hands-on experience through five end-to-end Power BI projects, each involving data import, cleaning, modeling, DAX measures, and deployment of interactive reports tailored to industry challenges
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Banking Loan Analytics Dashboard
+  - title: Velocity
     link: "#hook"
-    tagline: "Imported loan datasets via Power Query; cleaned duplicates and unpivoted columns; built star schema with applicant demographics as dimensions. Created DAX KPIs for approval rates, risk scores (e.g., CALCULATE(AVERAGE(Risk), Risk>Threshold)), and slicers for regional analysis. Simulated 20% faster insights for loan officers"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: Insurance Financial Performance Tracker
+  - title: DevStudio
     link: "#"
-    tagline: "ETL from balance sheets, cash flows (4-year trends); ratio analysis via DAX. Visualized health metrics with drill-downs and conditional formatting; implemented RLS for department views."
+    tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Marketing Campaign Insights Portal
+  - title: Tempo
     link: "#"
-    tagline: "Segmented customers by channel/product using Power Query merges; DAX for campaign ROI (SUMX(FILTER(Sales, Campaign="Q1"), Revenue/Cost)). Interactive maps and trend lines optimized marketing spend"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Energy Sales Profit Analyzer
+  - title: Atom
     link: "#"
-    tagline: "Processed regional sales data; DAX time intelligence (TOTALYTD(Sales, Dates)) for profit drivers. Added drill-through pages and bookmarks for executive summaries."
+    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Banking Customer Churn Predictor
+  - title: Delta
     link: "#"
-    tagline: "Modeled churn risks with customer attributes; descriptive stats via measures (e.g., % Churn = DIVIDE(COUNT(Churned), COUNTROWS(Customers))). Retention dashboards with what-if parameters"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
   title: OSS Contributions
