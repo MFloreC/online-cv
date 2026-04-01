@@ -90,7 +90,7 @@ certifications:
     end: Mars 2027
     organization: Microsoft
     credentialid: 8B819BA86B24023A
-    credentialurl: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
+    credentialurl: https://learn.microsoft.com/en-us/users/marieflorechadjou-3314/transcript/71w06h8y0q0rgwe?source=docs
     credentialname: PL-300
     details: |
      The PL-300 certification tests advanced Power BI skills across data preparation (25-30%): Power Query M for custom ETL functions, fuzzy matching, incremental refresh, and hybrid models; modeling (25-30%): complex DAX like CALCULATETABLE iterators, time intelligence (SAMEPERIODLASTYEAR), dynamic RLS, and VertiPaq optimization; visualization (25-30%): AI visuals (forecasting, anomaly detection), decomposition trees, and DAX-driven conditional formatting; deployment (15-20%): Premium XMLA endpoints, gateway clusters, workspace endorsements, and REST APIs for enterprise-scale governance.
