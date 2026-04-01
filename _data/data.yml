@@ -81,6 +81,20 @@ career-profile:
       Data connectivity modes: DirectQuery, Direct Lake, and Import mode.
       Business requirements gathering and stakeholder collaboration.
       End-to-end BI solution delivery and independent project ownership.
+
+certifications:
+  title: Certifications
+  list:
+  - name: Power BI Data Analyst Associate (PL 300)
+    start: Mars 2026
+    end: Mars 2027
+    organization: Microsoft
+    credentialid: 8B819BA86B24023A
+    credentialurl: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
+    credentialname: PL-300
+    details: |
+     The PL-300 certification tests advanced Power BI skills across data preparation (25-30%): Power Query M for custom ETL functions, fuzzy matching, incremental refresh, and hybrid models; modeling (25-30%): complex DAX like CALCULATETABLE iterators, time intelligence (SAMEPERIODLASTYEAR), dynamic RLS, and VertiPaq optimization; visualization (25-30%): AI visuals (forecasting, anomaly detection), decomposition trees, and DAX-driven conditional formatting; deployment (15-20%): Premium XMLA endpoints, gateway clusters, workspace endorsements, and REST APIs for enterprise-scale governance.
+
 education:
   title: Education
   info:
@@ -122,18 +136,6 @@ experiences:
       - Health and safety training and monitoring of prevention policies.
       - Correspondence and communication with construction teams
 
-certifications:
-  title: Certifications
-  list:
-  - name: Power BI Data Analyst Associate (PL 300)
-    start: 2026
-    end: 2028
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
-    credentialname: PL 300
-    details: |
-     The PL-300 certification tests advanced Power BI skills across data preparation (25-30%): Power Query M for custom ETL functions, fuzzy matching, incremental refresh, and hybrid models; modeling (25-30%): complex DAX like CALCULATETABLE iterators, time intelligence (SAMEPERIODLASTYEAR), dynamic RLS, and VertiPaq optimization; visualization (25-30%): AI visuals (forecasting, anomaly detection), decomposition trees, and DAX-driven conditional formatting; deployment (15-20%): Premium XMLA endpoints, gateway clusters, workspace endorsements, and REST APIs for enterprise-scale governance.
 projects:
   title: Projects
   intro: >
