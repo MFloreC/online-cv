@@ -71,25 +71,15 @@ career-profile:
       to drive data-informed decisions in dynamic teams.
 
       Key Skills:
-      Power BI dashboard design and development.
-      
-      Data modeling, report optimization, and semantic layer design.
-      
-      Power Query for data transformation and ETL workflows.
-      
-      DAX calculations, measures, and KPI development.
-      
-      Microsoft SQL Server and advanced T-SQL querying.
-      
-      Snowflake cloud data platform integration.
-      
-      Microsoft Fabric: Data Warehouse, Lakehouse architecture, and OneLake.
-      
-      Data connectivity modes: DirectQuery, Direct Lake, and Import mode.
-      
-      Business requirements gathering and stakeholder collaboration.
-      
-      End-to-end BI solution delivery and independent project ownership.
+      - Power BI dashboard design and development.
+      - Data modeling, report optimization, and semantic layer design.
+      - Power Query for data transformation and ETL workflows.
+      - DAX calculations, measures, and KPI development.
+      - Microsoft SQL Server and advanced T-SQL querying.
+      - Microsoft Fabric: Data Warehouse, Lakehouse architecture, and OneLake.
+      - Data connectivity modes: DirectQuery, Direct Lake, and Import mode.
+      - Business requirements gathering and stakeholder collaboration.
+      - End-to-end BI solution delivery and independent project ownership.
 
 certifications:
   title: Certifications
